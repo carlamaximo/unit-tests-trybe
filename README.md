@@ -12,7 +12,7 @@
   </header>
   <main>
     <p>Individual project, which the principal objective was to Write unit tests for functions using the NodeJS Assert module to verify the correct functioning of these functions.</p>
-    <p>Made on August, 2022.</p>
+    <p>Made on August, 2021.</p>
     <h2>Technologies:</h2>
     <ul>
       <li>Javascript</li>
